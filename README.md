@@ -2,9 +2,10 @@
 
 ![logo](./logo.png)
 
-Yet another paper reading assistant based on Open LLM-caht model. An open-source version that attempts to reimplement [ChatPDF](https://www.chatpdf.com/). A different dialogue version of another [ChatPaper](https://github.com/kaixindelele/ChatPaper) project. 
+Yet another paper reading assistant based on Open LLM-caht model. An open-source version that attempts to reimplement [ChatPDF](https://www.chatpdf.com/). A different dialogue version of another [ChatPaper](https://github.com/chinaphilip/openchatpaper) project. 
 
-又一个基于开源LLM实现的论文阅读助手。试图重新实现 [ChatPDF](https://www.chatpdf.com/) 的开源版本。支持对话的 [ChatPaper](https://github.com/kaixindelele/ChatPaper) 版本。
+又一个基于开源LLM实现的论文阅读助手。试图重新实现 [ChatPDF](https://www.chatpdf.com/) 的开源版本。支持对话的 [ChatPaper](https://github.com/chinaphilip/openchatpaper) 版本。
+目前的对话模型使用的是Vicuna-13b 8bit版本，文本检索模型使用的是"sentence-transformers/msmarco-distilbert-base-v4"，
 
 **News**
 - **Sat. Apr.1, 2023:** Add some buttons to get some basic aspects of paper quickly.
