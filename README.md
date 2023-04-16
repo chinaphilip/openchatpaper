@@ -91,7 +91,7 @@ streamlit run frontend.py --server.port 8502 --server.address localhost
 
 ## Cooperation & Contributions
 
-Feel free to reach out for possible cooperations or Contributions! (yixinliucs at gmail.com)
+Feel free to reach out for possible cooperations or Contributions! (aauiuui@163.com)
 
 ## References
 
