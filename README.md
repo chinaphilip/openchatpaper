@@ -2,20 +2,15 @@
 
 ![logo](./logo.png)
 
-Yet another paper reading assistant based on OpenAI ChatGPT API. An open-source version that attempts to reimplement [ChatPDF](https://www.chatpdf.com/). A different dialogue version of another [ChatPaper](https://github.com/kaixindelele/ChatPaper) project. 
+Yet another paper reading assistant based on Open LLM-caht model. An open-source version that attempts to reimplement [ChatPDF](https://www.chatpdf.com/). A different dialogue version of another [ChatPaper](https://github.com/kaixindelele/ChatPaper) project. 
 
-又一个基于OpenAI ChatGPT API的论文阅读助手。试图重新实现 [ChatPDF](https://www.chatpdf.com/) 的开源版本。支持对话的 [ChatPaper](https://github.com/kaixindelele/ChatPaper) 版本。
+又一个基于开源LLM实现的论文阅读助手。试图重新实现 [ChatPDF](https://www.chatpdf.com/) 的开源版本。支持对话的 [ChatPaper](https://github.com/kaixindelele/ChatPaper) 版本。
 
 **News**
 - **Sat. Apr.1, 2023:** Add some buttons to get some basic aspects of paper quickly.
 
 ![image](https://user-images.githubusercontent.com/53036760/229304107-b3c38813-495e-4610-a6f4-379dfb8e2806.png)
 
-## Online Demo API
-
-> Currently, we provide a demo (still developing) on the [huggingface space](https://huggingface.co/spaces/yixin6178/ChatPaper). 目前，我们在[huggingface space](https://huggingface.co/spaces/yixin6178/ChatPaper)上提供演示（仍在开发中）。
-
-![image](https://user-images.githubusercontent.com/53036760/226486291-90173dee-bff4-4e57-a094-0aa4a6b1712a.png)
 
 ## Setup
 
@@ -103,22 +98,8 @@ Feel free to reach out for possible cooperations or Contributions! (yixinliucs a
 2. St-chat: https://github.com/AI-Yash/st-chat
 3. Sentence-transformers: https://github.com/UKPLab/sentence-transformers
 4. ChatGPT Chatbot Wrapper: https://github.com/acheong08/ChatGPT
+5. Openchatpaper https://github.com/liuyixin-louis/ChatPaper
+6. langchain-ChatGLM  https://github.com/imClumsyPanda/langchain-ChatGLM
 
 
-## How to cite
-
-If you want to cite this work, please refer to the present GitHub project with BibTeX:
-
-```bibtex
-@misc{ChatPaper,
-    title = {ChatPaper},
-    howpublished = {\url{https://github.com/liuyixin-louis/ChatPaper}},
-    publisher = {GitHub},
-    year = {2023},
-}
-```
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=liuyixin-louis/OpenChatPaper&type=Date)](https://star-history.com/#liuyixin-louis/OpenChatPaper&Date)
 
