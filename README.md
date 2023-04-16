@@ -101,6 +101,7 @@ Feel free to reach out for possible cooperations or Contributions! (yixinliucs a
 4. ChatGPT Chatbot Wrapper: https://github.com/acheong08/ChatGPT
 5. Openchatpaper https://github.com/liuyixin-louis/ChatPaper
 6. langchain-ChatGLM  https://github.com/imClumsyPanda/langchain-ChatGLM
+7. Vicuna https://github.com/lm-sys/FastChat
 
 
 
