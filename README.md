@@ -4,7 +4,7 @@
 
 Forked from [Openchatpaper](https://github.com/liuyixin-louis/ChatPaper). An open-source version that attempts to reimplement [ChatPDF](https://www.chatpdf.com/). A different dialogue version of another [ChatPaper](https://github.com/chinaphilip/openchatpaper) project. 
 
-本代码库是从[Openchatpaper](https://github.com/liuyixin-louis/ChatPaper)中fork过来。试图实现基于开源对话模型的 [ChatPDF](https://www.chatpdf.com/) 的版本。
+本代码库是从[Openchatpaper](https://github.com/liuyixin-louis/ChatPaper)中fork过来。做了部分更改，试图实现基于开源对话模型的 [ChatPDF](https://www.chatpdf.com/) 的版本。
 目前的对话模型使用的是[Vicuna-13b 8bit](https://github.com/lm-sys/FastChat)版本，文本检索模型使用的是["sentence-transformers/msmarco-distilbert-base-v4"](https://huggingface.co/sentence-transformers/msmarco-distilbert-base-v4)，
 
 **News**
