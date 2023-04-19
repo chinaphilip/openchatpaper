@@ -4,7 +4,7 @@
 
 Yet another paper reading assistant based on Open LLM-caht model. An open-source version that attempts to reimplement [ChatPDF](https://www.chatpdf.com/). A different dialogue version of another [ChatPaper](https://github.com/chinaphilip/openchatpaper) project. 
 
-又一个基于开源LLM实现的论文阅读助手。试图重新实现 [ChatPDF](https://www.chatpdf.com/) 的开源版本。支持对话的 [ChatPaper](https://github.com/chinaphilip/openchatpaper) 版本。
+本代码库是从[Openchatpaper](https://github.com/liuyixin-louis/ChatPaper)中fork过来。试图实现基于开源对话模型的 [ChatPDF](https://www.chatpdf.com/) 的版本。
 目前的对话模型使用的是[Vicuna-13b 8bit](https://github.com/lm-sys/FastChat)版本，文本检索模型使用的是["sentence-transformers/msmarco-distilbert-base-v4"](https://huggingface.co/sentence-transformers/msmarco-distilbert-base-v4)，
 
 **News**
